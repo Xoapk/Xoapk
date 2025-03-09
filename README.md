@@ -2,6 +2,10 @@
 
 Xoapk is app store for Android, Windows, Linux. Apk Downloader for Android
 
+Screenshot
+
+<img src="/xoapk1.jpg" alt="xoapk" width="1080">
+
 <!--
 **Xoapk/Xoapk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
